@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 
 <h2 align="center">I'm Harshil Kachhadiya</h2> -->
-<img src="banner.png" width="60%" />
+<img src="banner.png" width="60%" /> 
 
 ## About Me
 
